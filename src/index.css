@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+:root {
+  --font-logo: 'Jaldi', sans-serif;
+  --font-text: 'Inter', sans-serif;
+
+  --gradient-text: linear-gradient(90deg, #152238 0%, #254D91 100%);
+
+  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  
+  --color-primary: #152238;
+  --color-secondary: #203A65;
+  --color-btn: #6885B6;
+
+}
